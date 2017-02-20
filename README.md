@@ -7,12 +7,6 @@ Laboratories microcontroller C8051F320 with the embedded radio Texas
 Instruments CC2500 (nodes) for matlab to master node serial communication
 and master node to the car-slave nodes communication.
 
-The main module is the TEL412_Project.m file 
-We have used a specific camera (creative Live! chat 720p) and 
-You must set it up properly in a space withought obstacles (We used the cameras drivers and programm to set it up NOT matlab)
-Also in different light and background conditions you must change the color thresholds 
-(TEL412_Project line 179) , (*_Car_Direction_Angle lines 15-50)
-
 TEAM :
 
 	Demertzis Rafail-Athanasios
